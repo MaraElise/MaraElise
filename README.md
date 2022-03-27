@@ -2,8 +2,8 @@
 
 
 - 🔭 Entrando no mundo de Data Analytics ;
-- 🎓 &nbsp; Estudando Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
-- 🌱 &nbsp; Aprendendo mais sobre **Análise e Visualização de dados**
+- 🎓 &nbsp;Estudando Data Analytics na <a href="https://www.ironhack.com/en">Ironhack</a>;
+- 🌱 &nbsp;Aprendendo mais sobre **Análise e Visualização de dados**
 - 💬 Ask me about Data Analysis
 - 😄 Pronouns: She/Her
 
@@ -23,5 +23,5 @@
 
 [![Linkedin: Mara Elise da Silva](https://img.shields.io/badge/-maraelisesilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mara-elise-silva-6006a697/)
 [![Gmail Badge](https://img.shields.io/badge/-maraelisesilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:maraelisesilva@gmail.com)](mailto:maraelisesilva@gmail.com)
-[![GitHub Mara Elise]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/MaraElise)
+![GitHub Mara Elise]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/MaraElise)
 
