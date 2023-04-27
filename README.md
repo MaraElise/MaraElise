@@ -12,13 +12,13 @@
 - 😄 Pronouns: She/Her;
 
 
-<b> 🚀 **Linguagens e Ferramentas</b>:**
+<b> 🚀💻 **Linguagens e Ferramentas</b>:**
 
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![pymysql](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![pymysql](https://img.shields.io/badge/-Python-black?style=flat-square&logo=pymysql)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Spyder](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Spyder](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Spyder)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
